@@ -1,0 +1,4 @@
+bin
+obj
+/2SecKeyServer/*.o
+/2SecKeyServer/server
